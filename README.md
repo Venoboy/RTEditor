@@ -14,5 +14,4 @@ Additional:
 * Использование Webpack
 * Использование React и Ant Design
 
-
 [Демо](https://rteditor.netlify.app/)
